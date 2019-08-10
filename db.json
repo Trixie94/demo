@@ -8,28 +8,22 @@
       }
     }
   ],
-  "sites": [
-    {
-      "type": "sites",
-      "id": 1,
-      "mainpage": [
+  "sites": {
+    "mainpage": {
+      "languages": [
         {
-          "languages": [
-            {
-              "name": "PL",
-              "attributes": {
-                "title": "PL Title"
-              }
-            },
-            {
-              "name": "EN",
-              "attributes": {
-                "title": "EN Title"
-              }
-            }
-          ]
+          "name": "PL",
+          "attributes": {
+            "title": "PL Title"
+          }
+        },
+        {
+          "name": "EN",
+          "attributes": {
+            "title": "EN Title"
+          }
         }
       ]
     }
-  ]
+  }
 }
