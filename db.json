@@ -20,6 +20,20 @@
           "attributes": "PL Title"
         }
       }
+    },
+    "aboutus": {
+      "languages": {
+        "EN": {
+          "attirbutes": {
+            "title": "EN Title"
+          }
+        },
+        "PL": {
+          "attributes": {
+            "title": "PL Title"
+          }
+        }
+      }
     }
   },
   "sites": {
