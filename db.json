@@ -8,6 +8,46 @@
       }
     }
   ],
+  "test": [
+    {
+      "mainpage": [
+        {
+          "langauges": [
+            {
+              "name": "EN",
+              "values": {
+                "title": "EN Title"
+              }
+            },
+            {
+              "name": "PL",
+              "values": {
+                "title": "PL Title"
+              }
+            }
+          ]
+        }
+      ],
+      "aboutus": [
+        {
+          "languages": [
+            {
+              "name": "EN",
+              "values": {
+                "title": "EN Title"
+              }
+            },
+            {
+              "name": "PL",
+              "values": {
+                "title": "PL Title"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "langtests": {
     "mainpage": {
       "languages": {
