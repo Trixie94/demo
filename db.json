@@ -8,6 +8,20 @@
       }
     }
   ],
+  "langtests": {
+    "mainpage": {
+      "languages": {
+        "EN": {
+          "attirbutes": {
+            "title": "EN Title"
+          }
+        },
+        "PL": {
+          "attributes": "PL Title"
+        }
+      }
+    }
+  },
   "sites": {
     "mainpage": {
       "languages": [
