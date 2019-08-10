@@ -51,6 +51,7 @@
   ],
   "sites": [
     {
+      "id": 0,
       "name": "mainpage",
       "languages": [
         {
@@ -80,6 +81,7 @@
       ]
     },
     {
+      "id": 1,
       "name": "aboutus",
       "languages": [
         {
