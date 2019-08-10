@@ -1,42 +1,8 @@
 {
-  "posts": 
-  [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": 
-  [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": 
-  {
-    "name": "typicode"
-  },
-  "settings": 
-  [
+  "settings": [
     {
       "lang": "PL",
-      "values": 
-      {
+      "values": {
         "email": "ex@gmail.com",
         "phone": "111-111-111",
         "adress": "Galeczki 61",
@@ -52,8 +18,7 @@
     },
     {
       "lang": "EN",
-      "values": 
-      {
+      "values": {
         "email": "ex@gmail.com",
         "phone": "111-111-111",
         "adress": "Galeczki 61",
@@ -69,8 +34,7 @@
     },
     {
       "lang": "DE",
-      "values": 
-      {
+      "values": {
         "email": "ex@gmail.com",
         "phone": "111-111-111",
         "adress": "Galeczki 61",
@@ -85,74 +49,64 @@
       }
     }
   ],
-  "sites": 
-  [
+  "sites": [
     {
-      "mainpage": {
-        "languages": 
-        [
-          {
-            "lang": "PL",
-            "values": 
-            {
-              "title": "Strona główna",
-              "meta": "Meta dane",
-              "keywords": "Słowa kluczowe"
-            }
-          },
-          {
-            "lang":"EN",
-            "values": 
-            {
-              "title": "Main page",
-              "meta": "Meta data",
-              "keywords": "Keywords"
-            }
-          },
-          {
-            "lang":"DE",
-            "values": 
-            {
-              "title": "DE Main page",
-              "meta": "DE Meta data",
-              "keywords": "DE Keywords"
-            }
+      "name": "mainpage",
+      "languages": [
+        {
+          "lang": "PL",
+          "values": {
+            "title": "Strona główna",
+            "meta": "Meta dane",
+            "keywords": "Słowa kluczowe"
           }
-        ]
-      },
-      "aboutus": 
-      {
-        "languages":
-        [
-          {
-            "lang": "PL",
-            "values": 
-            {
-              "title": "O nas",
-              "meta": "Meta dane",
-              "keywords": "Słowa kluczowe"
-            }
-          },
-          {
-            "lang": "EN",
-            "values": 
-            {
-              "title": "About us",
-              "meta": "Meta data",
-              "keywords": "Keywords"
-            }
-          },
-          {
-            "lang": "DE",
-            "values": 
-            {
-              "title": "DE O nas",
-              "meta": "DE Meta dane",
-              "keywords": "DE Słowa kluczowe"
-            }
+        },
+        {
+          "lang": "EN",
+          "values": {
+            "title": "Main page",
+            "meta": "Meta data",
+            "keywords": "Keywords"
           }
-        ]
-      }
+        },
+        {
+          "lang": "DE",
+          "values": {
+            "title": "DE Main page",
+            "meta": "DE Meta data",
+            "keywords": "DE Keywords"
+          }
+        }
+      ]
+    },
+    {
+      "name": "aboutus",
+      "languages": [
+        {
+          "lang": "PL",
+          "values": {
+            "title": "O nas",
+            "meta": "Meta dane",
+            "keywords": "Słowa kluczowe"
+          }
+        },
+        {
+          "lang": "EN",
+          "values": {
+            "title": "About us",
+            "meta": "Meta data",
+            "keywords": "Keywords"
+          }
+        },
+        {
+          "lang": "DE",
+          "values": {
+            "title": "DE O nas",
+            "meta": "DE Meta dane",
+            "keywords": "DE Słowa kluczowe"
+          }
+        }
+      ]
     }
   ]
 }
