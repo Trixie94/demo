@@ -10,90 +10,58 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "settings": [
+    {
+      "lang": "PL",
+      "values": 
+      {
+        "email": "ex@gmail.com",
+        "phone": "111-111-111",
+        "adress" : "Galeczki 61",
+        "regon": "666",
+        "NIP": "123-456-789",
+        "KRS": "997",
+        "DUNS": "123",
+        "news_letter": "abc.pl",
+        "link_facebook": "facebook.com/whiteaster",
+        "link_linkedin": "linked.in/whiteaster",
+        "google_analytics": "Google.com"
+      }
+    },
+    {
+      "lang": "EN",
+      "values": 
+      {
+        "email": "ex@gmail.com",
+        "phone": "111-111-111",
+        "adress" : "Galeczki 61",
+        "regon": "666",
+        "NIP": "123-456-789",
+        "KRS": "997",
+        "DUNS": "123",
+        "news_letter": "abc.pl",
+        "link_facebook": "facebook.com/whiteaster",
+        "link_linkedin": "linked.in/whiteaster",
+        "google_analytics": "Google.com"
+      }
+    },
+    {
+      "lang": "DE",
+      "values": 
+      {
+        "email": "ex@gmail.com",
+        "phone": "111-111-111",
+        "adress" : "Galeczki 61",
+        "regon": "666",
+        "NIP": "123-456-789",
+        "KRS": "997",
+        "DUNS": "123",
+        "news_letter": "abc.pl",
+        "link_facebook": "facebook.com/whiteaster",
+        "link_linkedin": "linked.in/whiteaster",
+        "google_analytics": "Google.com"
+      }
+    }
+  ]
 }
-
-
-{
-                name: 'settings',
-                language: 
-                [
-                    {
-                        lang: 'PL',
-                        values:
-                        {
-                            email: 'ex@gmail.com',
-                            phone: '111-111-111',
-                            adress: 'Galeczki 61',
-                            regon: '666',
-                            NIP: '123-456-789',
-                            KRS: '997',
-                            DUNS: '123',
-                            news_letter: 'abc.pl',
-                            link_facebook: 'facebook.com/whiteaster',
-                            link_linkedin: 'linked.in/whiteaster',
-                            google_analytics: 'Google.com'
-                        }
-                    },
-                    {
-                        lang: 'EN',
-                        values:
-                        {
-                            email: 'ex@gmail.com',
-                            phone: '111-111-111',
-                            adress: 'Galeczki 61',
-                            regon: '666',
-                            NIP: '123-456-789',
-                            KRS: '997',
-                            DUNS: '123',
-                            news_letter: 'abc.pl',
-                            link_facebook: 'facebook.com/whiteaster',
-                            link_linkedin: 'linked.in/whiteaster',
-                            google_analytics: 'Google.com'
-                        }
-                    },
-                    {
-                        lang: 'DE',
-                        values:
-                        {
-                            email: 'ex@gmail.com',
-                            phone: '111-111-111',
-                            adress: 'Galeczki 61',
-                            regon: '666',
-                            NIP: '123-456-789',
-                            KRS: '997',
-                            DUNS: '123',
-                            news_letter: 'abc.pl',
-                            link_facebook: 'facebook.com/whiteaster',
-                            link_linkedin: 'linked.in/whiteaster',
-                            google_analytics: 'Google.com'
-                        }
-                    },
-                ]
-            },
-            {
-                name: 'reference',
-                language: 
-                [
-                    {
-                        lang: 'PL',
-                        value: 
-                        {
-                            test: 'test'
-                        }
-                    },
-                    {
-                        lang: 'EN',
-                        value: 
-                        {
-                            test: 'testEN'
-                        }
-                    },
-                    {
-                        lang: 'DE',
-                        value: {
-                            test: 'testDE'
-                        }
-                    }
-                ]
-            }
