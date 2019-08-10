@@ -24,6 +24,22 @@
           }
         }
       ]
+    },
+    "aboutus": {
+      "languages": [
+        {
+          "name": "PL",
+          "attributes": {
+            "title": "PL Title"
+          }
+        },
+        {
+          "name": "EN",
+          "attributes": {
+            "title": "EN Title"
+          }
+        }
+      ]
     }
   }
 }
