@@ -1,9 +1,35 @@
 {
-  "settings": [{
-    "type": "settings",
-    "id": 0,
-    "attributes": {
-      "title": "Test api"
+  "settings": [
+    {
+      "type": "settings",
+      "id": 0,
+      "attributes": {
+        "title": "Test api"
+      }
     }
-  }]
+  ],
+  "sites": [
+    {
+      "type": "sites",
+      "id": 1,
+      "mainpage": [
+        {
+          "languages": [
+            {
+              "name": "PL",
+              "attributes": {
+                "title": "PL Title"
+              }
+            },
+            {
+              "name": "EN",
+              "attributes": {
+                "title": "EN Title"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
