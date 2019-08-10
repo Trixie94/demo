@@ -88,8 +88,7 @@
   "sites": 
   [
     {
-      "site": {
-        "name": "mainpage",
+      "mainpage": {
         "languages": 
         [
           {
@@ -117,6 +116,39 @@
               "title": "DE Main page",
               "meta": "DE Meta data",
               "keywords": "DE Keywords"
+            }
+          }
+        ]
+      },
+      "aboutus": 
+      {
+        "languages":
+        [
+          {
+            "lang": "PL",
+            "values": 
+            {
+              "title": "O nas",
+              "meta": "Meta dane",
+              "keywords": "Słowa kluczowe"
+            }
+          },
+          {
+            "lang": "EN",
+            "values": 
+            {
+              "title": "About us",
+              "meta": "Meta data",
+              "keywords": "Keywords"
+            }
+          },
+          {
+            "lang": "DE",
+            "values": 
+            {
+              "title": "DE O nas",
+              "meta": "DE Meta dane",
+              "keywords": "DE Słowa kluczowe"
             }
           }
         ]
